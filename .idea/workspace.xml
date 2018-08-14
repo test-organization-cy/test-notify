@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f790e127-d4da-4b71-a345-6998c1ecf1aa" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_unknown.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/ApiVersionEnum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/AppDeployEnvEnum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/AppDeployEnvLevelEnum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/AvatarTypeEnum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/DeserializeEnum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/JavaVersionEnum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/RepoIndexStatusEnum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/RepoTypeEnum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/SortEnum.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/test-notify.iml" afterPath="$PROJECT_DIR$/test-notify.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exception/ErrorCode.java" afterPath="$PROJECT_DIR$/src/main/java/exception/ErrorCode.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,6 +49,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ErrorCode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exception/ErrorCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ApiVersionEnum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/enums/ApiVersionEnum.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortEnum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SortEnum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/enums/SortEnum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -113,12 +112,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/exception/ErrorCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/CacheName.java" />
         <option value="$PROJECT_DIR$/src/main/java/exception/HttpProxyRuntimeException.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/DateUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/enums/LanguageEnum.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/exception/ErrorCode.java" />
       </list>
     </option>
   </component>
@@ -326,12 +325,20 @@
       <option name="presentableId" value="Default" />
       <updated>1534212863795</updated>
       <workItem from="1534212865475" duration="2646000" />
-      <workItem from="1534215637474" duration="1396000" />
+      <workItem from="1534215637474" duration="2074000" />
     </task>
+    <task id="LOCAL-00001" summary="commit 3-1">
+      <created>1534228334718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534228334718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4042000" />
+    <option name="totallyTimeSpent" value="4720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="834" extended-state="0" />
@@ -373,6 +380,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit 3-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3-1" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -409,14 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exception/ErrorCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -533,6 +536,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exception/ErrorCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
           <folding />
         </state>
       </provider>
