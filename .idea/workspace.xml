@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f790e127-d4da-4b71-a345-6998c1ecf1aa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exception/HttpProxyRuntimeException.java" afterPath="$PROJECT_DIR$/src/main/java/exception/HttpProxyRuntimeException.java" />
-    </list>
+    <list default="true" id="f790e127-d4da-4b71-a345-6998c1ecf1aa" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -267,12 +264,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534212863795</updated>
-      <workItem from="1534212865475" duration="2487000" />
+      <workItem from="1534212865475" duration="2646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2487000" />
+    <option name="totallyTimeSpent" value="2646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="834" extended-state="0" />
