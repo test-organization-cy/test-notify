@@ -8,6 +8,4 @@ public interface ErrorCode {
 
     int ADMIN_ERROR_CODE_START1 = COMMON_ERROR_CODE_START + 4000;
 
-    int ADMIN_ERROR_CODE_START2 = COMMON_ERROR_CODE_START + 5000;
-
 }
