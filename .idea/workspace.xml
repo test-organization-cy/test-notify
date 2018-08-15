@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f790e127-d4da-4b71-a345-6998c1ecf1aa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/exception/ErrorCode.java" afterPath="$PROJECT_DIR$/src/main/java/exception/ErrorCode.java" />
-    </list>
+    <list default="true" id="f790e127-d4da-4b71-a345-6998c1ecf1aa" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -378,7 +376,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9681000" />
+    <option name="totallyTimeSpent" value="9691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="834" extended-state="0" />
