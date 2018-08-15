@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f790e127-d4da-4b71-a345-6998c1ecf1aa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CacheName.java" afterPath="$PROJECT_DIR$/src/main/java/CacheName.java" />
-    </list>
+    <list default="true" id="f790e127-d4da-4b71-a345-6998c1ecf1aa" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/exception/ErrorCode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="65" lean-forward="true" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+              <caret line="16" column="65" lean-forward="false" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -335,7 +332,7 @@
       <option name="presentableId" value="Default" />
       <updated>1534212863795</updated>
       <workItem from="1534212865475" duration="2646000" />
-      <workItem from="1534215637474" duration="2715000" />
+      <workItem from="1534215637474" duration="4361000" />
     </task>
     <task id="LOCAL-00001" summary="commit 3-1">
       <created>1534228334718</created>
@@ -355,7 +352,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5361000" />
+    <option name="totallyTimeSpent" value="7007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="834" extended-state="0" />
@@ -552,7 +549,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/exception/ErrorCode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="65" lean-forward="true" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <caret line="16" column="65" lean-forward="false" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
           <folding />
         </state>
       </provider>
