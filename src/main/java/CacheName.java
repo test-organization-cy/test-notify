@@ -1,7 +1,7 @@
 
 public interface CacheName {
 
-    String SERVICE_ASSET = "ServiceAsset";
+    String SERVICE_ASSET = "ServiceAsset123123123";
 
     String SERVICE_VENDOR_NAME = "ServiceVendorName";
 
