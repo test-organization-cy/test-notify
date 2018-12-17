@@ -12,8 +12,8 @@ public class HttpProxyRuntimeException extends RuntimeException {
     public HttpProxyRuntimeException() {
     }
 
-    public HttpProxyRuntimeException(String message) {
-        super(message);
+    public HttpProxyRuntimeException(String message1) {
+        super(message1);
     }
 
     public HttpProxyRuntimeException(String message, Throwable cause) {
