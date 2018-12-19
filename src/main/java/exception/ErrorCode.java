@@ -2,7 +2,7 @@ package exception;
 
 public interface ErrorCode {
 
-    int COMMON_ERROR_CODE_START = 0;
+    int COMMON_ERROR_CODE_START = 10;
 
     int PLATFORM_ERROR_CODE_START = COMMON_ERROR_CODE_START + 1000;
 
