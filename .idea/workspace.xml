@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f790e127-d4da-4b71-a345-6998c1ecf1aa" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/exception/ErrorCode1.java" />
+      <change beforePath="$PROJECT_DIR$/CODEOWNERS" afterPath="$PROJECT_DIR$/CODEOWNERS" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -68,6 +67,16 @@
                 <element signature="e#114#115#0" expanded="true" />
                 <element signature="e#156#157#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CODEOWNERS" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CODEOWNERS">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="57" lean-forward="false" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/main/java/exception/ErrorCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/exception/ErrorCode1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/CODEOWNERS" />
       </list>
     </option>
   </component>
@@ -165,6 +175,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-notify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-notify" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,12 +316,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534212863795</updated>
       <workItem from="1534212865475" duration="2487000" />
-      <workItem from="1547445297127" duration="1854000" />
+      <workItem from="1547445297127" duration="1906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4341000" />
+    <option name="totallyTimeSpent" value="4393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="834" extended-state="0" />
@@ -435,6 +453,14 @@
             <element signature="e#114#115#0" expanded="true" />
             <element signature="e#156#157#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CODEOWNERS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" lean-forward="false" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
