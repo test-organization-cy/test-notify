@@ -5,5 +5,5 @@ public interface CacheName {
 
     String SERVICE_VENDOR_NAME2 = "ServiceVendorName";
 
-    String USER = "User";
+    String USER1 = "User";
 }
