@@ -2,7 +2,7 @@ package exception;
 
 public interface ErrorCode {
 
-    int COMMON_ERROR_CODE_START = 0;
+    int COMMON_ERROR_CODE_START = 1000;
 
     int COMMON_ERROR_CODE_START1 = 0;
 
@@ -16,5 +16,11 @@ public interface ErrorCode {
 
     int APP_NAME_DUPLICATED = CONSOLE_ERROR_CODE_START + 1;
 
+<<<<<<< HEAD
+=======
+    int ADMIN_ERROR_CODE_START1 = COMMON_ERROR_CODE_START + 4000;
+
+    int ADMIN_ERROR_CODE_START2 = COMMON_ERROR_CODE_START + 5000;
+>>>>>>> ee0d707bcb8c6bfc3017c6ba45298a1406db8b5e
 
 }
