@@ -7,7 +7,7 @@ package exception;
  * @date 2018/06/04
  */
 public class HttpProxyRuntimeException extends RuntimeException {
-    private static final long serialVersionUID = -148541217700174436L;
+    private static final long serialVersionUID = -148541217700171234L;
 
     public HttpProxyRuntimeException() {
     }
